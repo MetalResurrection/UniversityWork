@@ -1,0 +1,1 @@
+This is a script that involves generating a inputted amount of names and categorizing them, then writing a report on the given info.
