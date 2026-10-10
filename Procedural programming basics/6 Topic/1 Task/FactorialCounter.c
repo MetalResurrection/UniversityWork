@@ -54,7 +54,9 @@ while (1){
 
        fclose(file);
 
-       printf("The answer was saved to factorial.txt\n");
+       printf("The answer is %d\n", TheEndValue);
+
+       printf("The answer was also saved to factorial.txt\n");
 
 
 
